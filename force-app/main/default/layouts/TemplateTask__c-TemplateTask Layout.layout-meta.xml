@@ -12,7 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Task__c</field>
+                <field>Requirements__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>

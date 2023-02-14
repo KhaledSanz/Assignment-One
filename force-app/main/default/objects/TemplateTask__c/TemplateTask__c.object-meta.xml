@@ -143,18 +143,18 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>This SObject will comprise several steps that candidates must complete within a certain amount of time to pass their probation</description>
+    <description>This will comprise several steps and used so that the candidates are able to complete said tasks within a certain amount of time to pass their probation</description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ControlledByParent</externalSharingModel>
-    <label>TemplateTask</label>
+    <label>Template Task</label>
     <nameField>
         <label>TemplateTask Name</label>
         <type>Text</type>

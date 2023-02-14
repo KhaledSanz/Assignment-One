@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Manager_Name__c</fullName>
+    <description>This will allow for the input of Manager&apos;s Name</description>
     <externalId>false</externalId>
     <label>Manager Name</label>
     <required>true</required>

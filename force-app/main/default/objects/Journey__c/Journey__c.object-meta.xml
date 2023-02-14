@@ -143,7 +143,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>This will comprise several steps that tracks and records the progress of the candidates.</description>
+    <description>This will be used to record the details of a candidate in order to start their journey.</description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -153,14 +153,14 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
-    <label>Journey Task</label>
+    <externalSharingModel>Private</externalSharingModel>
+    <label>Journey</label>
     <nameField>
-        <label>JourneyTask Name</label>
+        <label>Journey Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>JourneyTasks</pluralLabel>
+    <pluralLabel>Journeys</pluralLabel>
     <searchLayouts></searchLayouts>
-    <sharingModel>ControlledByParent</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
