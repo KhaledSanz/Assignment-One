@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Relative_Days_to_Complete__c</fullName>
+    <description>This will be used to input the amount of day it will take to complete certain tasks.</description>
+    <externalId>false</externalId>
+    <label>Relative Days to Complete</label>
+    <precision>3</precision>
+    <required>true</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>
