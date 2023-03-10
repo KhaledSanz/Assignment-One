@@ -4,7 +4,7 @@
         <application>Khaled</application>
         <visible>true</visible>
     </applicationVisibilities>
-    <description>New joiners to the company. Their only instance is to follow an onboarding journey.</description>
+    <description>New joiners to MainlyDigital. Their only instance is to follow an onboarding journey.</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>JourneyTask__c.Completed__c</field>
