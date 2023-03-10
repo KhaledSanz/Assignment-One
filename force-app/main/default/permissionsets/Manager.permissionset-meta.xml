@@ -4,7 +4,7 @@
         <application>Khaled</application>
         <visible>true</visible>
     </applicationVisibilities>
-    <description>Allows access to journey and viewing of template.</description>
+    <description>Allows access to all journeys in order to onboard new users</description>
     <fieldPermissions>
         <editable>true</editable>
         <field>JourneyTask__c.Completed__c</field>
